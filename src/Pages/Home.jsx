@@ -23,5 +23,5 @@ const Home = () => {
 };
 
 
-// exported now and success jourjney
+// exported 
 export default Home;
